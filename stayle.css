@@ -55,6 +55,7 @@ a {
 .btn-primary {
     background-color: var(--secondary-color);
     color: #fff;
+    font-weight: 600;
     padding: 8px 20px;
     font-size: 14px;
     border-radius: 5px;
@@ -70,13 +71,14 @@ a {
 
 /* Header Start */
 header {
-    background-color: #f0f0f0;
+
+    background-color: #fff;
     height: 100vh;
 
 }
 
 header .navbar {
-    background: #fff;
+    background: #f5f4f4;
     border-bottom: 1px solid #ccc;
     position: fixed;
     width: 100%;
