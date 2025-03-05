@@ -65,7 +65,7 @@ a {
 }
 
 .btn-primary:hover {
-    background-color: #15a076;
+    background-color: #0d7f5f;
 }
 
 
@@ -166,7 +166,7 @@ header .header-content .content-text {
     font-size: 18px;
     padding: 10px;
     background: var(--gray);
-    color: #fff;
+        color: #fff;
     border-radius: 50%;
     margin-right: 10px;
     transition: all 0.3s ease;
@@ -174,10 +174,12 @@ header .header-content .content-text {
 
 #home .header-content .social a i:hover {
     transform: scale(0.85);
+    background-color: var(--primary-color);
+    
 }
 
 header .header-content img {
-    max-width: 600px;
+    max-width: 700px;
 
 
 
