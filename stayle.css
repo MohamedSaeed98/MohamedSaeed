@@ -145,7 +145,7 @@ header .header-content .content-text {
 }
 
 #home .header-content h1 {
-    font-size: 50px;
+    font-size: 40px;
     color: var(--primary-color);
     text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
     margin-top: 10px;
@@ -166,7 +166,7 @@ header .header-content .content-text {
     font-size: 18px;
     padding: 10px;
     background: var(--gray);
-        color: #fff;
+    color: #fff;
     border-radius: 50%;
     margin-right: 10px;
     transition: all 0.3s ease;
@@ -175,11 +175,11 @@ header .header-content .content-text {
 #home .header-content .social a i:hover {
     transform: scale(0.85);
     background-color: var(--primary-color);
-    
+
 }
 
 header .header-content img {
-    max-width: 700px;
+    max-width: 450px;
 
 
 
