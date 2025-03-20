@@ -105,9 +105,9 @@ header .navbar nav ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 12px;
+    font-size: 11px;
     font-weight: 800;
-
+    margin-right: 10px;
 }
 
 header .navbar nav ul a {
